@@ -24,9 +24,10 @@ ${data.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#Badges)
-- [Features](#Features)
-- [Tests](#Tests)
+- [Badges](#badges)
+- [Features](#features)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${data.install}
@@ -48,6 +49,10 @@ Contributor Covenant Code of Conduct
 
 ## Tests
 ${data.tests}
+
+## Questions
+Github: ${data.github}
+Contact me at ${data.email} with any questions.
 `;
 }
 
