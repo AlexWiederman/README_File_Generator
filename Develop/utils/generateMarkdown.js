@@ -25,7 +25,6 @@ ${data.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
 - [Features](#features)
 - [Tests](#tests)
 - [Questions](#questions)

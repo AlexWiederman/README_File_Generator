@@ -15,7 +15,7 @@ Description
 - [Questions](#questions)
 
 ## Installation
-Install
+Instructions
 ## Usage
 Usage
 ## Credits
@@ -34,4 +34,4 @@ Tests
 ## Questions
 [Github Profile](https://github.com/AlexWiederman)
 
-Contact me at email address with any questions.
+Contact me at Email Address with any questions.
