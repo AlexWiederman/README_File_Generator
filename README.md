@@ -29,7 +29,6 @@ Automatically creates README file.
 ## How to Contribute
 
 Contributor Covenant Code of Conduct
-
 ## Tests
 There are currently no tests.
 
