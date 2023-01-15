@@ -1,8 +1,8 @@
-# Title
+# README File Generator
 ## Description
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Descr[
+This is a node terminal project that quickly creates README files straight from the terminal. There are prompts that the user answers to create the different sections of the file.
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -15,23 +15,23 @@ Descr[
 - [Questions](#questions)
 
 ## Installation
-Install
+Save files on your local computer and navigate to the develop file. Make sure you have node installed and then run "npm install" from the command line to download the needed files. Then enter "node index.js" from your terminal to generate the questions that need to be answered. When finished, a readme file will be created in the "Develop" folder. Refer to the link below for a video walkthrough.
 ## Usage
-usage
+This is used to automatically create README files for repos on GitHub.
 ## Credits
-collabs
+None.
 ## License
-IBM Public License Version 1.0
+The Unlicense
 ## Features
-Feature
+Automatically creates README file.
 ## How to Contribute
 
 Contributor Covenant Code of Conduct
 
 ## Tests
-tests
+There are currently no tests.
 
 ## Questions
 [Github Profile](https://github.com/AlexWiederman)
 
-Contact me at email with any questions.
+Contact me at  with any questions.
