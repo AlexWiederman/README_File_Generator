@@ -16,6 +16,8 @@ This is a node terminal project that quickly creates README files straight from 
 
 ## Installation
 Save files on your local computer and navigate to the develop file. Make sure you have node installed and then run "npm install" from the command line to download the needed files. Then enter "node index.js" from your terminal to generate the questions that need to be answered. When finished, a readme file will be created in the "Develop" folder. Refer to the link below for a video walkthrough.
+
+- [Walkthrough Video](./Assets/README file generator.mp4)
 ## Usage
 This is used to automatically create README files for repos on GitHub.
 ## Credits
