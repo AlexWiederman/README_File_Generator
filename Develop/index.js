@@ -41,6 +41,35 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
+    switch (license) {
+        case licenseList[0]:
+            return 
+            break;
+        case licenseList[1]:
+            return 
+            break;
+            case licenseList[2]:
+            return 
+            break;
+            case licenseList[3]:
+            return
+            break;
+            case licenseList[4]:
+            return 
+            break;
+            case licenseList[5]:
+            return 
+            break;
+            case licenseList[6]:
+            return 
+            break;
+            case licenseList[7]:
+            return 
+            break;
+            case licenseList[8]:
+            return 
+            break;
+                }
 
 }
 
@@ -99,6 +128,11 @@ function writeToFile(fileName, data) {
                 type: 'input',
                 name: names[8],
                 message: questions[8],
+            },
+            {
+                type: 'input',
+                name: names[9],
+                message: questions[9],
             },
         ])
         .then((data) => {

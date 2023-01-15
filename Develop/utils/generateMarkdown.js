@@ -17,6 +17,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(license, data) {
   return `# ${data.title}
 ## Description
+${license.badge}\n
 ${data.description}
 ## Table of Contents 
 
@@ -37,10 +38,6 @@ ${data.usage}
 ${data.collab}
 ## License
 ${data.license}
-## Badges
-
-${license.badge}
-
 ## Features
 ${data.features}
 ## How to Contribute
@@ -51,7 +48,7 @@ Contributor Covenant Code of Conduct
 ${data.tests}
 
 ## Questions
-Github: ${data.github}
+[Github Profile](https://github.com/${data.github})\n
 Contact me at ${data.email} with any questions.
 `;
 }
