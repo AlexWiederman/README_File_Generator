@@ -1,4 +1,5 @@
 # README File Generator
+![ScreenShot](./Assets/Screenshot.PNG)
 ## Description
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
